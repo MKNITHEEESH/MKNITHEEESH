@@ -36,8 +36,8 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ---
 
 ## 📫 Let's Connect!  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com  
-📌 [Portfolio](https://yourportfolio.com) <!-- Optional: if you have a website -->
+🌐 [LinkedIn](www.linkedin.com/in/m-k-nitheesh-67bb97258)  
+📧 Email: nitheeshmk123@gmail.com  
+📌 [Portfolio](https://mknitheeesh.github.io/Portifolio1/) 
 
 💡 *"Turning data into actionable insights with AI & ML."* 🚀  
