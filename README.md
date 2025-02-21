@@ -10,6 +10,8 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 - **AI-powered Disease Prediction System** (Using Transfer Learning & LIME)  
 - **Hospital Emergency Room Analytics Dashboard** (Power BI)  
 - **Medical Insurance Premium Prediction** (ML Model Development)  
+- **Real-Time Human Detection System** (YOLOv8 & Flask)  
+- **Blinkit Sales Analysis Using SQL** (Retail Data Insights)  
 
 ### 🎯 What I Do:  
 - 🧠 Build & deploy AI/ML models  
@@ -24,7 +26,7 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 🔹 **Big Data & Cloud:** Hadoop, Spark, AWS, Azure  
-🔹 **Deployment:** Flask, FastAPI, Docker  
+🔹 **Deployment:** Flask  
 
 ---
 
@@ -42,4 +44,4 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 📧 Email: nitheeshmk123@gmail.com  
 📌 [Portfolio](https://mknitheeesh.github.io/Portifolio1/)  
 
-💡 *"Turning data into actionable insights with AI & ML."* 🚀  
+💡 *"Turning data into actionable insights with AI & ML."* 🚀
