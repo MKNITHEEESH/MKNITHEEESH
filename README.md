@@ -19,7 +19,7 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## 🛠️ Tech Stack & Tools  
 🔹 **Programming:** Python, SQL, R  
 🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
@@ -32,12 +32,14 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 📌 **[Disease Prediction System](https://github.com/yourrepo)** – AI-driven medical image analysis for predicting diseases.  
 📌 **[Global SuperStore Analytics](https://github.com/yourrepo)** – Data visualization and business insights using Tableau.  
 📌 **[Medical Insurance Premium Prediction](https://github.com/yourrepo)** – ML model to predict health insurance costs.  
+📌 **[Real-Time Human Detection](https://github.com/yourrepo)** – YOLOv8-powered system for real-time human detection with Flask-based web visualization.  
+📌 **[Blinkit Sales Analysis](https://github.com/yourrepo)** – SQL-driven analysis of sales performance, customer satisfaction, and outlet trends.  
 
 ---
 
-## 📫 Let's Connect!  
+## 💋 Let's Connect!  
 🌐 [LinkedIn](https://www.linkedin.com/in/m-k-nitheesh-67bb97258)   
 📧 Email: nitheeshmk123@gmail.com  
-📌 [Portfolio](https://mknitheeesh.github.io/Portifolio1/) 
+📌 [Portfolio](https://mknitheeesh.github.io/Portifolio1/)  
 
 💡 *"Turning data into actionable insights with AI & ML."* 🚀  
