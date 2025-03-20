@@ -34,13 +34,16 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ---
 
 ## 📂 Featured Projects  
-📌 **[LLM Chatbot with RAG](https://github.com/yourrepo)** – Built a context-aware chatbot using **LangChain**, **Ollama LLM (Gemma:2B)**, and **RAG**, integrating **PDF processing**, **Hugging Face embeddings**, and **Chroma** for efficient retrieval. Developed a real-time **Streamlit interface** for seamless user interaction.  
+📌 **LLM Chatbot with RAG** – Built a context-aware chatbot using **LangChain**, **Ollama LLM (Gemma:2B)**, and **RAG**, integrating **PDF processing**, **Hugging Face embeddings**, and **Chroma** for efficient retrieval. Developed a real-time **Streamlit interface** for seamless user interaction.  
 
+📌 **Disease Prediction System** – AI-driven medical image analysis using **VGG16**, **VGG19**, and **DenseNet169** models with **transfer learning** and **LIME** for interpretability.  
 
-📌 **[Disease Prediction System](https://github.com/yourrepo)** – AI-driven medical image analysis for predicting diseases.    
-📌 **[Medical Insurance Premium Prediction](https://github.com/yourrepo)** – ML model to predict health insurance costs.  
-📌 **[Real-Time Human Detection](https://github.com/yourrepo)** – YOLOv8-powered system for real-time human detection with Flask-based web visualization.  
-📌 **[Blinkit Sales Analysis](https://github.com/yourrepo)** – SQL-driven analysis of sales performance, customer satisfaction, and outlet trends.  
+📌 **Medical Insurance Premium Prediction** – Predictive modeling using **Random Forest (86% accuracy)** and **SVM (80%)** to forecast insurance premiums. Enhanced predictions through **feature engineering** and **algorithm evaluation**.  
+
+📌 **Real-Time Human Detection** – Built a real-time human detection system using **YOLOv8** and **OpenCV**, with a **Flask-based web interface** for live video streaming and visualization.  
+
+📌 **Blinkit Sales Analysis** – Conducted SQL-driven analysis on an **8,523-row retail sales dataset**, uncovering insights into **sales performance**, **customer satisfaction**, and **inventory distribution** to optimize outlet performance.  
+ 
 
 ---
 
