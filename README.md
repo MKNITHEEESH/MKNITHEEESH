@@ -12,9 +12,11 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 - **Medical Insurance Premium Prediction** (ML Model Development)  
 - **Real-Time Human Detection System** (YOLOv8 & Flask)  
 - **Blinkit Sales Analysis Using SQL** (Retail Data Insights)  
+- **LLM Chatbot with RAG** (LangChain & Ollama LLM)  
 
 ### 🎯 What I Do:  
 - 🧠 Build & deploy AI/ML models  
+- 🤖 Develop LLM-based applications with RAG for enhanced knowledge retrieval  
 - 📊 Perform data visualization & business intelligence  
 - 🔍 Work on deep learning & model interpretability  
 - 🎓 Mentor and guide projects in data science  
@@ -22,15 +24,20 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ---
 
 ## 🛠️ Tech Stack & Tools  
-🔹 **Programming:** Python, SQL 
-🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn  
+🔹 **Programming:** Python, SQL  
+🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, LangChain  
+🔹 **NLP & LLM:** Hugging Face Transformers, Ollama LLM  
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
-🔹 **Big Data & Cloud:** Hadoop, Spark 
-🔹 **Deployment:** Flask  
+🔹 **Big Data & Cloud:** Hadoop, Spark  
+🔹 **Deployment:** Flask, Streamlit  
 
 ---
 
 ## 📂 Featured Projects  
+📌 **[LLM Chatbot with RAG](https://github.com/yourrepo)** –  
+Developed an intelligent chatbot using **LangChain**, **Ollama LLM (Gemma:2B)**, and **RAG (Retrieval-Augmented Generation)** to provide context-aware responses from a custom knowledge base. Integrated PDF processing, **Hugging Face embeddings**, and **Chroma** for efficient data retrieval.  
+- Engineered a real-time **Streamlit interface** with streaming callbacks for seamless user interaction.  
+
 📌 **[Disease Prediction System](https://github.com/yourrepo)** – AI-driven medical image analysis for predicting diseases.  
 📌 **[Global SuperStore Analytics](https://github.com/yourrepo)** – Data visualization and business insights using Tableau.  
 📌 **[Medical Insurance Premium Prediction](https://github.com/yourrepo)** – ML model to predict health insurance costs.  
@@ -40,7 +47,7 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ---
 
 ## 💋 Let's Connect!  
-🌐 [LinkedIn](https://www.linkedin.com/in/m-k-nitheesh-67bb97258)   
+🌐 [LinkedIn](https://www.linkedin.com/in/m-k-nitheesh-67bb97258)  
 📧 Email: nitheeshmk123@gmail.com  
 📌 [Portfolio](https://mknitheeesh.github.io/Portifolio1/)  
 
