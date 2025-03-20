@@ -38,8 +38,7 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 Developed an intelligent chatbot using **LangChain**, **Ollama LLM (Gemma:2B)**, and **RAG (Retrieval-Augmented Generation)** to provide context-aware responses from a custom knowledge base. Integrated PDF processing, **Hugging Face embeddings**, and **Chroma** for efficient data retrieval.  
 - Engineered a real-time **Streamlit interface** with streaming callbacks for seamless user interaction.  
 
-📌 **[Disease Prediction System](https://github.com/yourrepo)** – AI-driven medical image analysis for predicting diseases.  
-📌 **[Global SuperStore Analytics](https://github.com/yourrepo)** – Data visualization and business insights using Tableau.  
+📌 **[Disease Prediction System](https://github.com/yourrepo)** – AI-driven medical image analysis for predicting diseases.    
 📌 **[Medical Insurance Premium Prediction](https://github.com/yourrepo)** – ML model to predict health insurance costs.  
 📌 **[Real-Time Human Detection](https://github.com/yourrepo)** – YOLOv8-powered system for real-time human detection with Flask-based web visualization.  
 📌 **[Blinkit Sales Analysis](https://github.com/yourrepo)** – SQL-driven analysis of sales performance, customer satisfaction, and outlet trends.  
