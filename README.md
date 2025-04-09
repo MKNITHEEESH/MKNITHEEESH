@@ -12,7 +12,6 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 - **Medical Insurance Premium Prediction** (ML Model Development)  
 - **Real-Time Human Detection System** (YOLOv8 & Flask)  
 - **Blinkit Sales Analysis Using SQL** (Retail Data Insights)  
-- **LLM Chatbot with RAG** (LangChain & Ollama LLM)  
 
 ### 🎯 What I Do:  
 - 🧠 Build & deploy AI/ML models  
@@ -26,7 +25,6 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ## 🛠️ Tech Stack & Tools  
 🔹 **Programming:** Python, SQL  
 🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, LangChain  
-🔹 **NLP & LLM:** Hugging Face Transformers, Ollama LLM  
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 🔹 **Big Data & Cloud:** Hadoop, Spark  
 🔹 **Deployment:** Flask, Streamlit  
@@ -34,8 +32,6 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 ---
 
 ## 📂 Featured Projects  
-📌 **LLM Chatbot with RAG** – Built a context-aware chatbot using **LangChain**, **Ollama LLM (Gemma:2B)**, and **RAG**, integrating **PDF processing**, **Hugging Face embeddings**, and **Chroma** for efficient retrieval. Developed a real-time **Streamlit interface** for seamless user interaction.  
-
 📌 **Disease Prediction System** – AI-driven medical image analysis using **VGG16**, **VGG19**, and **DenseNet169** models with **transfer learning** and **LIME** for interpretability.  
 
 📌 **Medical Insurance Premium Prediction** – Predictive modeling using **Random Forest (86% accuracy)** and **SVM (80%)** to forecast insurance premiums. Enhanced predictions through **feature engineering** and **algorithm evaluation**.  
