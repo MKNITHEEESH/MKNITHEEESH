@@ -15,7 +15,6 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 
 ### 🎯 What I Do:  
 - 🧠 Build & deploy AI/ML models  
-- 🤖 Develop LLM-based applications with RAG for enhanced knowledge retrieval  
 - 📊 Perform data visualization & business intelligence  
 - 🔍 Work on deep learning & model interpretability  
 - 🎓 Mentor and guide projects in data science  
@@ -24,10 +23,10 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 
 ## 🛠️ Tech Stack & Tools  
 🔹 **Programming:** Python, SQL  
-🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn, LangChain  
+🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn 
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 🔹 **Big Data & Cloud:** Hadoop, Spark  
-🔹 **Deployment:** Flask, Streamlit  
+🔹 **Deployment:** Flask
 
 ---
 
