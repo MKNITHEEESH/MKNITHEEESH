@@ -23,7 +23,8 @@ I am a **Data Science Intern at Luminar Technohub**, passionate about leveraging
 
 ## 🛠️ Tech Stack & Tools  
 🔹 **Programming:** Python, SQL  
-🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn 
+🔹 **AI & ML Frameworks:** TensorFlow, Keras, PyTorch, Scikit-learn
+
 🔹 **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 🔹 **Big Data & Cloud:** Hadoop, Spark  
 🔹 **Deployment:** Flask
